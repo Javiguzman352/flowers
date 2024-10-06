@@ -54,5 +54,5 @@ function dibujarFlor(x, y, color) {
 }
 
 function mostrarAlerta() {
-    alert("Te amo mi niña ❤️");
+    alert("Te amo mi niña, ten un lindo día como tus lindos ojitos ❤️");
 }
